@@ -1,0 +1,9 @@
+# Obsidian workspace state (user-local, not shareable)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Claude local settings
+.claude/settings.local.json
+
+# macOS
+.DS_Store
